@@ -1,0 +1,18 @@
+.patientDetails,.VitalsAndLabs,.transferDetails {
+    display: float;
+    margin-left: 20px;
+}
+
+input {
+    margin-left: 15px;
+    
+}
+
+p{
+    margin-left: 30px;
+    margin-top: 12px;
+}
+
+h3{
+    margin-left: 30px;
+}
